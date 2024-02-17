@@ -1,0 +1,1224 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.icons-Lrz {
+  width: 100%;
+  height: 140rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.icons-Lrz .arrows-directions-down-square-uYi {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-square-bwL {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 55.6rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-right-square-KsL {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-left-square-r6a {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.2rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-square-2-BPk {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 70rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-square-2-uae {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 74.8rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-right-square-2-S4n {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 79.6rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-left-square-2-wXL {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-circle-U1U {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 89.2rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-circle-oJe {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 94rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-right-circle-jCJ {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 108.4rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-left-circle-rGv {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 113.2rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-circle-yMY {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 118rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-circle-orN {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 122.8rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-right-circle-KJv {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 127.6rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-left-circle-Ewg {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 132.4rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-right-circle-yPU {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-left-circle-JRk {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 55.6rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-EaJ {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-xWJ {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-66i {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 54rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-right-d6e {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 57.2rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-left-ZFC {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-left-5zE {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 63.6rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-right-R2W {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 66.8rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-left-wmY {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 70rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-right-UmU {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 73.2rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-ChU {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.2rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-right-Xjk {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 70rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-left-sHp {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 74.8rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-left-QHk {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 79.6rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-left-vmt {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 89.2rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-right-4NJ {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-right-np6 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 94rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-2-L4v {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 98.8rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-up-TvE {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 76.4rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-right-zvA {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 79.6rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-left-jcr {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 82.8rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-down-2-U4e {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 103.6rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-right-2-bf4 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 108.4rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-left-2-vxE {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 113.2rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-swap-s6n {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 118rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-swap-oFL {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 86rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-swap-XSE {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 89.2rem;
+  top: 48.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-swap-2-G8v {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 122.8rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-swap-3-zKp {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 127.6rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-swap-KN6 {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 92.4rem;
+  top: 48.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-expand-rN2 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 132.4rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-expand-b4i {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 95.6rem;
+  top: 48.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-expand-iQE {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 97.8rem;
+  top: 48.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-collapse-Sr2 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 36.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-right-circle-A1L {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 98.8rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-left-circle-Uni {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 103.6rem;
+  top: 26.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .auto-group-bers-1Xk {
+  width: 47.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 6rem;
+  top: 21.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+.icons-Lrz .auto-group-bers-1Xk .arrows-directions-8MU {
+  margin-right: 17.8rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2857142857;
+  letter-spacing: 0.01rem;
+  color: #0671e0;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.icons-Lrz .auto-group-bers-1Xk .item-24-oiW {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0.01rem;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.icons-Lrz .auto-group-e9gi-XeW {
+  width: 47.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 6rem;
+  top: 63.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.icons-Lrz .auto-group-e9gi-XeW .user-interface-ej8 {
+  margin-right: 25.3rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2857142857;
+  letter-spacing: 0.01rem;
+  color: #0671e0;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.icons-Lrz .auto-group-e9gi-XeW .item-24-AxN {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0.01rem;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.icons-Lrz .item-16-hhQ {
+  width: 2.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 43.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0.01rem;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.icons-Lrz .item-16-Pq8 {
+  width: 2.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 85.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0.01rem;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.icons-Lrz .vector-2-u2n {
+  width: 132rem;
+  height: 0;
+  position: absolute;
+  left: 6rem;
+  top: 56.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-search-SHc {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 74.8rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-search-ADc {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 66.8rem;
+  top: 90.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-document-5rN {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 79.6rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-document-2-R9Y {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-document-add-x9U {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 89.2rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-document-delite-V9Q {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 94rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-copy-DbC {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 122.8rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-layers-8iA {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 98.8rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-paperclip-GJa {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 122.8rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-calendar-bLr {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.2rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-lock-jCA {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 103.6rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-lock-open-GC6 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 108.4rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-lock-check-Q3Q {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 113.2rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-lock-x-Lhk {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 118rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-filter-H7C {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 127.6rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-camera-orE {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 132.4rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-info-square-YYv {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 89.2rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-x-5Yr {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 94rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-check-square-DQA {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 98.8rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-more-square-wb4 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 108.4rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-more-circle-gHk {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 103.6rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-category-158 {
+  box-sizing: border-box;
+  padding: 0.4rem 0.35rem 0.3rem 0.35rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 113.2rem;
+  top: 73.2rem;
+}
+.icons-Lrz .user-interface-category-158 .category-hTk {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.25rem;
+}
+.icons-Lrz .user-interface-category-158 .category-hTk .auto-group-rwhc-SgE {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.icons-Lrz .user-interface-category-158 .category-hTk .auto-group-rwhc-SgE .rectangle-2-nk6 {
+  margin-right: 0.3rem;
+  width: 0.7rem;
+  height: 0.7rem;
+  border: solid 0.15rem #717171;
+  box-sizing: border-box;
+  border-radius: 0.25rem;
+  flex-shrink: 0;
+}
+.icons-Lrz .user-interface-category-158 .category-hTk .auto-group-rwhc-SgE .rectangle-3-VuQ {
+  width: 0.7rem;
+  height: 0.7rem;
+  border: solid 0.15rem #717171;
+  box-sizing: border-box;
+  border-radius: 0.25rem;
+  flex-shrink: 0;
+}
+.icons-Lrz .user-interface-category-158 .category-hTk .auto-group-hs2n-pwg {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.icons-Lrz .user-interface-category-158 .category-hTk .auto-group-hs2n-pwg .rectangle-4-NyC {
+  margin-right: 0.3rem;
+  width: 0.7rem;
+  height: 0.7rem;
+  border: solid 0.15rem #717171;
+  box-sizing: border-box;
+  border-radius: 0.25rem;
+  flex-shrink: 0;
+}
+.icons-Lrz .user-interface-category-158 .category-hTk .auto-group-hs2n-pwg .rectangle-5-hVg {
+  width: 0.7rem;
+  height: 0.7rem;
+  border: solid 0.15rem #717171;
+  box-sizing: border-box;
+  border-radius: 0.25rem;
+  flex-shrink: 0;
+}
+.icons-Lrz .user-interface-mail-Dyp {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 74.8rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-home-xAi {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 79.6rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-bell-5m8 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 118rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-send-2Aa {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-scanner-wYS {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 122.8rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-location-UHU {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 70rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-image-oae {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-trash-jz6 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 118rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-filter-HEv {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-settings-DeN {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 55.6rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-login-MEn {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 127.6rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-logout-gH4 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 132.4rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-download-2-mZQ {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-logout-VVQ {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 55.6rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-eye-QcN {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-hide-w6W {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.2rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-save-4gv {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 70rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-burger-C2S {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 70rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-user-uxS {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 74.8rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-users-SxN {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 79.6rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-add-user-yxJ {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-edit-1-ub4 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 94rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-edit-2-e2r {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 89.2rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-share-yav {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 98.8rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-link-i2i {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 103.6rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-link-2-2p6 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 108.4rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-loading-mWn {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 113.2rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-loading-Vxa {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 63.6rem;
+  top: 90.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-check-1vv {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-check-7j4 {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 57.2rem;
+  top: 90.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-close-FKU {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.2rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-x-ymG {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 90.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface--uev {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface--e6i {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 90.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface--B6e {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 55.6rem;
+  top: 68.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface--Jwx {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 54rem;
+  top: 90.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-danger-eW2 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 127.6rem;
+  top: 78rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .user-interface-danger-ncE {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 70rem;
+  top: 90.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .arrows-directions-strech-KMG {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 55.6rem;
+  top: 36.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-Lrz .icons-dcr {
+  width: 9.6rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 67.2rem;
+  top: 6.4rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  color: #263238;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.icons-Lrz .expand-vrr {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 101rem;
+  top: 48.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -1,0 +1,465 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.typography-QUE {
+  width: 100%;
+  height: 208.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.typography-QUE .font-style-42z {
+  width: 18.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 38.4rem;
+}
+.typography-QUE .font-style-42z .web-heading-headline-2-KUi {
+  margin-bottom: 0.4rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2222222222;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-QUE .font-style-42z .semi-bold-36-44-MgJ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-QUE .font-style-RgA {
+  width: 13.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 56rem;
+}
+.typography-QUE .font-style-RgA .web-heading-headline-4-7J6 {
+  margin-bottom: 0.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-QUE .font-style-RgA .semi-bold-20-28-BHx {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-QUE .font-style-fyp {
+  width: 14.6rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 47.6rem;
+}
+.typography-QUE .font-style-fyp .web-heading-headline-3-Z3c {
+  margin-bottom: 0.4rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2857142857;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-QUE .font-style-fyp .semi-bold-28-36-tLn {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-QUE .auto-group-czcw-PHY {
+  width: 52rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 6rem;
+  top: 20.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.typography-QUE .auto-group-czcw-PHY .headlines-uFt {
+  margin-right: 31.2rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2857142857;
+  letter-spacing: 0.01rem;
+  color: #0671e0;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-czcw-PHY .header-DXU {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0.01rem;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-n7h8-wTU {
+  width: 86.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 6rem;
+  top: 74.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.typography-QUE .auto-group-n7h8-wTU .body-qHx {
+  margin-right: 37.8rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2857142857;
+  letter-spacing: 0.01rem;
+  color: #0671e0;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-n7h8-wTU .regular-kA2 {
+  margin-right: 26.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0.01rem;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-n7h8-wTU .medium-ULv {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0.01rem;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .vector-4-cT8 {
+  width: 132rem;
+  height: 0;
+  position: absolute;
+  left: 6rem;
+  top: 68rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typography-QUE .font-style-k3Y {
+  width: 32rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 26rem;
+}
+.typography-QUE .font-style-k3Y .web-heading-headline-1-Ute {
+  margin-bottom: 0.4rem;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1875;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-QUE .font-style-k3Y .semi-bold-64-76-krA {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-QUE .auto-group-xphl-HLJ {
+  width: 45.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 79.6rem;
+  display: flex;
+  align-items: center;
+}
+.typography-QUE .auto-group-xphl-HLJ .frame-82-oJe {
+  margin-right: 23.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-xphl-HLJ .frame-82-oJe .body-regular-body-1-LpN {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5555555556;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-xphl-HLJ .frame-82-oJe .regular-18-28-GT8 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-xphl-HLJ .frame-83-bkJ {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-xphl-HLJ .frame-83-bkJ .body-medium-body-1-YfY {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-xphl-HLJ .frame-83-bkJ .regular-18-28-GrS {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-ahwe-BTc {
+  width: 45.1rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 87.2rem;
+  display: flex;
+  align-items: center;
+}
+.typography-QUE .auto-group-ahwe-BTc .font-style-srE {
+  margin-right: 23.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-ahwe-BTc .font-style-srE .body-regular-body-2-S8e {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-ahwe-BTc .font-style-srE .regular-16-24-AqL {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-ahwe-BTc .font-style-i6A {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-ahwe-BTc .font-style-i6A .body-medium-body-2-fn6 {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-ahwe-BTc .font-style-i6A .regular-16-24-QDt {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-pbaw-YL6 {
+  width: 45.1rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 94.4rem;
+  display: flex;
+  align-items: center;
+}
+.typography-QUE .auto-group-pbaw-YL6 .font-style-UDk {
+  margin-right: 23.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-pbaw-YL6 .font-style-UDk .body-regular-body-3-1Dg {
+  margin-bottom: 0.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-pbaw-YL6 .font-style-UDk .regular-14-20-8ZC {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-pbaw-YL6 .font-style-1st {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-pbaw-YL6 .font-style-1st .body-medium-body-3-xYE {
+  margin-bottom: 0.4rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-pbaw-YL6 .font-style-1st .regular-14-20-UFg {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-2uvj-Q9L {
+  width: 44.8rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 101.2rem;
+  display: flex;
+  align-items: center;
+}
+.typography-QUE .auto-group-2uvj-Q9L .font-style-w9G {
+  margin-right: 23.4rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-2uvj-Q9L .font-style-w9G .body-regular-body-4-gsY {
+  margin-bottom: 0.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-2uvj-Q9L .font-style-w9G .regular-12-16-RKL {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-2uvj-Q9L .font-style-xKG {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-2uvj-Q9L .font-style-xKG .body-medium-body-4-iZL {
+  margin-bottom: 0.4rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  color: #212121;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .auto-group-2uvj-Q9L .font-style-xKG .regular-12-16-qP4 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #88939e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-QUE .typography-wgz {
+  width: 21.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 6.4rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  color: #263238;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

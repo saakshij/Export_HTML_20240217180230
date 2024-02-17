@@ -1,0 +1,235 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.store-56v {
+  box-sizing: border-box;
+  padding: 19.7rem 0rem 14.6rem 2.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.store-56v .menu-oYi {
+  margin: 0rem 128.8rem 5.2rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.1rem;
+  width: calc(100% - 128.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.store-56v .menu-oYi .why-justgo-8L6 {
+  margin-right: 0.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.store-56v .menu-oYi .expand-FQi {
+  margin-bottom: 0rem;
+  width: 1.4rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS {
+  box-sizing: border-box;
+  padding: 1.6rem 14.4rem;
+  width: 100%;
+  height: 8.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .image-2-LBG {
+  margin-right: 20.1rem;
+  width: 12.2rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea {
+  margin: 1.4rem 3.3rem 1.4rem 0rem;
+  height: calc(100% - 2.8rem);
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-8N2 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-8N2 .why-justgo-hAE {
+  margin-right: 0.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-8N2 .expand-2iJ {
+  margin-bottom: 0rem;
+  width: 1.4rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-aE2 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-aE2 .why-justgo-Liz {
+  margin-right: 0.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-aE2 .expand-g2A {
+  margin-bottom: 0rem;
+  width: 1.4rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-262 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-262 .why-justgo-atE {
+  margin-right: 0.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-262 .expand-L6i {
+  margin-bottom: 0rem;
+  width: 1.4rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-4YW {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-4YW .why-justgo-d5p {
+  margin-right: 0.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-4YW .expand-ZkA {
+  margin-bottom: 0rem;
+  width: 1.4rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-KDY {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-KDY .why-justgo-gZt {
+  margin-right: 0.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .header-menu-cea .menu-KDY .expand-ELW {
+  margin-bottom: 0rem;
+  width: 1.4rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .button-BWe {
+  box-sizing: border-box;
+  padding: 1.4rem 3.406rem 1.4rem 3.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #4caf4f;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .button-BWe .label-Ksk {
+  margin-right: 1.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.store-56v .header-nvS .right-menu-TWn .button-BWe .arrows-directions-right-FWW {
+  margin-top: 0rem;
+  width: 1.144rem;
+  height: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
